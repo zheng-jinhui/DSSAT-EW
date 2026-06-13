@@ -1,4 +1,4 @@
-# DSSAT-EW supplementary code
+# DSSAT-EW code
 
 This folder contains the implementation framework for the DSSAT-EW model
 described in the manuscript. It provides the computational logic for
