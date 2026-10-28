@@ -7,8 +7,7 @@ exposure, observational residual learning, and counterfactual attribution.
 
 ## Associated manuscript
 
-This code supports the manuscript *Agricultural burdens emerge as crop climates
-depart from historical extremes*.
+This code supports the manuscript *Extreme heat drives future crop losses while heavy rain drives GHG emissions*.
 
 Authors, in manuscript order:
 
